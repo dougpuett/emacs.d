@@ -1,0 +1,57 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/dpuett/.emacs.d/el-get/" . "auctex/")
+ ("/Users/dpuett/.emacs.d/" . "settings/")
+ ("/Users/dpuett/data_science/" . "ad_hoc/")
+ ("/Users/dpuett/" . "data_science/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/dpuett/data_science/ad_hoc/"
+ "/Users/dpuett/"
+ "/Users/dpuett/.emacs.d/el-get/auctex/"
+ "/Users/dpuett/.emacs.d/settings/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "camera_testers.py"
+ "ipevo_test.py"
+ "best_questions.py"
+ ".emacs"
+ "favorite_users.py"
+ "notes_sample.py"
+ "COPYING"
+ "python-settings.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/dpuett/data_science/ad_hoc/" (21987 30274 0 0) "video_usage.py" "video_popups.py" "verizon_uq.py" "task_length.py" "nps_annotation.py" "notes_sample.py" "ipevo_test.py" "indian_testers_by_hour.py" "favorite_users.py" "camera_testers.py" "best_questions.py" ".DS_Store" "../" "./")
+
+ ("/Users/dpuett/data_science/infrastructure/" (21984 52189 0 0) "UQ/" "totango_keen2.html" "totango_keen.html" "session_table.py" "leftronic/" "flask_test.py" "analytics_app/" ".DS_Store" "../" "./")
+
+ ("/Users/dpuett/data_science/" (21975 26847 0 0) "README.md" "projects/" "log_notes/" "infrastructure/" "helper_functions/" "examples:tests/" "ad_hoc/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/dpuett/.emacs.d/el-get/auctex/" (21987 27750 0 0) "toolbar-x.el" "texmathp.el" "tex.el" "tex-wizard.el" "tex-style.el" "tex-site.el.in" "tex-mik.el" "tex-jp.el" "tex-info.el" "tex-font.el" "tex-fold.el" "tex-buf.el" "tex-bar.el" "tests/" "style/" "RELEASE" "README.GIT" "prv-xemacs.el" "prv-install.el" "prv-emacs.el" "preview.el.in" "preview-latex.spec" "plain-tex.el" "multi-prompt.el" "mkinstalldirs" "Makefile.in" "lpath.el" "latex.el" "latex/" "install-sh" "images/" "font-latex.el" "doc/" "COPYING" "context.el" "context-nl.el" "context-en.el" "configure.ac" "circ.tex" "ChangeLog-preview.1" "ChangeLog-preview" "ChangeLog" "bib-cite.el" "autogen.sh" "auctex.spec" "auctex.el.in" "aclocal.m4" ".gitignore" ".git/" ".cvsignore" "../" "./")
+
+ ("/Users/dpuett/" (21984 42422 0 0) "warehouse-migration/" "sphinxbase-5prealpha/" "sphinxbase-0.8.tar.gz" "sphinxbase-0.8/" "session_table2" "session_table" "scribe/" "query_graph.html" "pyxley/" "python-mode.el-6.2.0.tar.gz" "python-mode.el-6.2.0.tar copy.gz" "python-mode.el-6.2.0/" "Public/" "pocketsphinx-python/" "pocketsphinx-0.8/" "Pictures/" "permute/" "orders/" "node_modules/" "Music2/" "Music/" "Movies/" "Library/" "emacs/" "Dropbox (UserTesting)/" "Downloads/" "Documents/" "Desktop/" "data_science/" "client_secret_71216072514-cot6hfur67r9lnf6j2dgsk5vc46kv9bu.apps.googleusercontent.com.json" "client_secret_382338045106-ifvnq6d8n2h8tg4tl93q6tpg8hd370sd.apps.googleusercontent.com.json" "census.json" "aws_password" "audio.wav" "Applications/" "anaconda/" "1fa7a99a.mp4" "1db7a99a.mp4" "1d39a99a.mp4" "160ba99a.mp4" ".viminfo" ".Trash/" ".ssh/" ".Rapp.history" ".profile" ".npm/" ".matplotlib/" ".m2/" ".local/" ".lein/" ".julia_history" ".ipython/" ".gitconfig" ".emacs~" ".emacs.d/" ".emacs" ".DS_Store" ".dropbox/" ".continuum/" ".config/" ".CFUserTextEncoding" ".cache/" ".bash_profile" ".bash_history" ".account" "../" "./")
+
+ ("/Users/dpuett/.emacs.d/elpa/" (21941 43168 0 0) "multiple-cursors-20150710.456/" "exec-path-from-shell-readme.txt" "exec-path-from-shell-20141212.846/" "archives/" "../" "./")
+
+ ("/Users/dpuett/.emacs.d/elpa/multiple-cursors-20150710.456/" (21941 43171 0 0) "rectangular-region-mode.elc" "rectangular-region-mode.el" "multiple-cursors.elc" "multiple-cursors.el" "multiple-cursors-pkg.el" "multiple-cursors-core.elc" "multiple-cursors-core.el" "multiple-cursors-autoloads.el" "mc-separate-operations.elc" "mc-separate-operations.el" "mc-mark-pop.elc" "mc-mark-pop.el" "mc-mark-more.elc" "mc-mark-more.el" "mc-hide-unmatched-lines-mode.elc" "mc-hide-unmatched-lines-mode.el" "mc-edit-lines.elc" "mc-edit-lines.el" "mc-cycle-cursors.elc" "mc-cycle-cursors.el" "../" "./")
+
+ ("/Users/dpuett/.emacs.d/" (21941 43037 0 0) "snippets/" "settings/" "python-mode.el-6.2.0/" "ido.last" "elpa/" "el-get/" "auto-save-list/" "ac-comphist.dat" "../" "./")
+
+ ("/Users/dpuett/.emacs.d/el-get/" (21941 43042 0 0) "yasnippet/" "yaml-mode/" "websocket/" "scss-mode/" "request/" "python-environment/" "pydoc-info/" "popup/" "nyan-mode/" "nxhtml/" "markdown-mode/" "magit/" "js2-mode/" "jedi/" "helm-descbinds/" "helm/" "fuzzy/" "epc/" "el-get/" "ein/" "deferred/" "dash/" "ctable/" "color-theme-solarized/" "color-theme/" "cl-lib/" "auto-complete/" ".status.el" ".loaddefs.elc" ".loaddefs.el" "../" "./")
+
+ ("/Users/dpuett/.emacs.d/settings/" (21941 20881 0 0) "yasnippet-settings.el" "yaml-settings.el" "scss-settings.el" "python-settings.el" "mumamo-settings.el" "matlab-settings.el" "markdown-settings.el" "latex-settings.el" "js-settings.el" "helm-settings.el" "general-settings.el" "el-get-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "auto-complete-settings.el" "../" "./")
+
+ ("/Users/" (21907 5747 0 0) "Shared/" "Guest/" "dpuett/" "Admin/" ".localized" ".dpuett.xahome/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
