@@ -18,9 +18,10 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "indian_testers_by_hour.py"
+ "best_questions.py"
  "camera_testers.py"
  "ipevo_test.py"
- "best_questions.py"
  ".emacs"
  "favorite_users.py"
  "notes_sample.py"
@@ -30,7 +31,7 @@
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/dpuett/data_science/ad_hoc/" (21987 30274 0 0) "video_usage.py" "video_popups.py" "verizon_uq.py" "task_length.py" "nps_annotation.py" "notes_sample.py" "ipevo_test.py" "indian_testers_by_hour.py" "favorite_users.py" "camera_testers.py" "best_questions.py" ".DS_Store" "../" "./")
+ ("/Users/dpuett/data_science/ad_hoc/" (21987 31227 0 0) "video_usage.py" "video_popups.py" "verizon_uq.py" "task_length.py" "nps_annotation.py" "notes_sample.py" "ipevo_test.py" "indian_testers_by_hour.py" "favorite_users.py" "camera_testers.py" "best_questions.py" ".DS_Store" ".#camera_testers.py" "../" "./")
 
  ("/Users/dpuett/data_science/infrastructure/" (21984 52189 0 0) "UQ/" "totango_keen2.html" "totango_keen.html" "session_table.py" "leftronic/" "flask_test.py" "analytics_app/" ".DS_Store" "../" "./")
 
